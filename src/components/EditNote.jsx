@@ -20,7 +20,7 @@ export default function EditNote(props) {
 
   return (
     <div className="flex relative justify-center items-center">
-      <form className="my-11 w-[350px] md:w-[480px]">
+      <form className="my-11 w-[340px] md:w-[480px]">
         <input
           className="p-4 w-full font-bold rounded-t-2xl outline-none"
           name="title"
